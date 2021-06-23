@@ -2,7 +2,6 @@
 
 
 #Two pointer method
-
 class threeSum_twopointer:
     def threeSum(self, nums):
         res=[]
